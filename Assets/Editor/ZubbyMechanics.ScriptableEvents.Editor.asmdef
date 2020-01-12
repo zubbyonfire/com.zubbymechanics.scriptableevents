@@ -1,0 +1,14 @@
+{
+    "name": "ZubbyMechanics.ScriptableEvents.Editor",
+    "references": [
+        "GUID:51f304da9f8bd2d4198aaa08e5e39c62"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

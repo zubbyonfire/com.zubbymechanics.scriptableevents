@@ -1,0 +1,9 @@
+{
+  "name": "com.zubbymechanics.scriptableevents",
+  "displayName": "Scriptable Object Events",
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "author": "zubbyonfire",
+  "description": "Scriptable Object Event system for easy to use events",
+  "dependencies": { }
+}
